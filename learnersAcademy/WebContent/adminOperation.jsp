@@ -38,5 +38,8 @@
   	<td><a href="viewclassreport">View Class Reports</a>
 <tr/>
 </table>
+<form action = LogoutServlet method="post">
+<button type="submit">Logout</button>
+</form>
 </body>
 </html>
